@@ -1,0 +1,17 @@
+{
+  "uuid": "00f3c7fc-69d9-4b2c-b91a-7500e3511a57",
+  "shortName": "Time Helper",
+  "longName": "Time Helper",
+  "companyName": "Ben Galbraith",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
